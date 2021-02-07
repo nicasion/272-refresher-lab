@@ -10,4 +10,10 @@ class Child < ApplicationRecord
     scope :alphabetical, -> { order('last_name, first_name') }
     scope :active, -> { where(active: true) }
 
+    # Misc Methods and Constants
+    def name
+        first_name + " " + last_name
+    end 
+
+
 end
