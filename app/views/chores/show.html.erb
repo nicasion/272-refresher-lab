@@ -16,7 +16,7 @@
 
 <p>
   <b>Completed:</b>
-  <%= @chore.completed ? "Yes" : "No" %>
+  <%= @chore.status %>
 </p>
 
 <%= link_to 'Edit', edit_chore_path(@chore) %> |
