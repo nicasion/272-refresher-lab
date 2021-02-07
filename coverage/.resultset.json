@@ -62,11 +62,14 @@
       ],
       "/Users/macbook/Documents/Extension/Spring 2021/67373 Consulting/Homework/HW1b Refresher Lab/272-refresher-lab/app/models/chore.rb": [
         1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/macbook/Documents/Extension/Spring 2021/67373 Consulting/Homework/HW1b Refresher Lab/272-refresher-lab/app/models/task.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/macbook/Documents/Extension/Spring 2021/67373 Consulting/Homework/HW1b Refresher Lab/272-refresher-lab/app/controllers/application_controller.rb": [
         0,
@@ -320,6 +323,6 @@
         0
       ]
     },
-    "timestamp": 1612670962
+    "timestamp": 1612671300
   }
 }
